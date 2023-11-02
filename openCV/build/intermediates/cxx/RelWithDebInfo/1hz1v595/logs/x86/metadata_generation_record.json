@@ -1,0 +1,156 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 26 min SDK version: x86",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1546456102
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\.cxx\\RelWithDebInfo\\1hz1v595\\x86\\android_gradle_build.json due to:",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -620248419
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1656971412
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\.cxx\\RelWithDebInfo\\1hz1v595\\x86\u0027",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1844761435
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\.cxx\\RelWithDebInfo\\1hz1v595\\x86\u0027",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1933923047
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1hz1v595\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1hz1v595\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\.cxx\\\\RelWithDebInfo\\\\1hz1v595\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -49388310
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d26\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-26\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\nguye\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1hz1v595\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\1hz1v595\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BD:\\\\Document_C\\\\Java\\\\ProjectJavav2-master\\\\ProjectJavav2-master\\\\openCV\\\\.cxx\\\\RelWithDebInfo\\\\1hz1v595\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 154126441
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\.cxx\\RelWithDebInfo\\1hz1v595\\x86\\compile_commands.json.bin normally",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -826884593
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -753040108
+  },
+  {
+    "level_": 0,
+    "message_": "hard linked D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\.cxx\\RelWithDebInfo\\1hz1v595\\x86\\compile_commands.json to D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\.cxx\\tools\\release\\x86\\compile_commands.json",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 519919703
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\Document_C\\Java\\ProjectJavav2-master\\ProjectJavav2-master\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1185032976
+  }
+]
